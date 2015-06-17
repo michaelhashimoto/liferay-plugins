@@ -32,7 +32,7 @@ import com.liferay.ams.service.AssetLocalServiceUtil;
  * @generated
  */
 @ProviderType
-public abstract class AssetBaseImpl extends AssetModelImpl implements Asset {
+public abstract class AssetBaseImpls extends AssetModelImpl implements Asset {
 	/*
 	 * NOTE FOR DEVELOPERS:
 	 *
